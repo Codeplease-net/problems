@@ -1,5 +1,7 @@
 {
     "type_of_judgling":"AC", 
+    "time_limit" : 1,
+    "memory_limit" : 256,
     "test_case":[
         {"idx":1, "input_file":"in1", "output_file":"out1", "score":1},
         {"idx":2, "input_file":"in2", "output_file":"out2", "score":1},
