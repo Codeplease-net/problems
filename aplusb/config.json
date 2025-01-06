@@ -1,5 +1,5 @@
 {
-    "type_of_judgling":"AC", 
+    "type_of_judging":"AC", 
     "time_limit" : 1,
     "memory_limit" : 256,
     "test_case":[
