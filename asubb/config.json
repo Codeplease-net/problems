@@ -1,17 +1,17 @@
 {
-    "type_of_judging":"AC", 
+    "type_of_judging":"SC", 
     "time_limit" : 1000,
     "memory_limit" : 256,
-    "test_case":[
-        {"idx":1, "input_file":"in1", "output_file":"out1", "score":1},
-        {"idx":2, "input_file":"in2", "output_file":"out2", "score":1},
-        {"idx":3, "input_file":"in3", "output_file":"out3", "score":1},
-        {"idx":4, "input_file":"in4", "output_file":"out4", "score":1},
-        {"idx":5, "input_file":"in5", "output_file":"out5", "score":1},
-        {"idx":6, "input_file":"in6", "output_file":"out6", "score":1},
-        {"idx":7, "input_file":"in7", "output_file":"out7", "score":1},
-        {"idx":8, "input_file":"in8", "output_file":"out8", "score":1},
-        {"idx":9, "input_file":"in9", "output_file":"out9", "score":1},
-        {"idx":10, "input_file":"in10", "output_file":"out10", "score":1}
+    "test_cases":[
+        {"input_file":"in1", "output_file":"out1", "score":1},
+        {"input_file":"in2", "output_file":"out2", "score":1},
+        {"input_file":"in3", "output_file":"out3", "score":1},
+        {"input_file":"in4", "output_file":"out4", "score":1},
+        {"input_file":"in5", "output_file":"out5", "score":1},
+        {"input_file":"in6", "output_file":"out6", "score":1},
+        {"input_file":"in7", "output_file":"out7", "score":1},
+        {"input_file":"in8", "output_file":"out8", "score":1},
+        {"input_file":"in9", "output_file":"out9", "score":1},
+        {"input_file":"in10", "output_file":"out10", "score":1}
     ]
 }
