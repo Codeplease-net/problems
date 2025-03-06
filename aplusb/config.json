@@ -4,15 +4,15 @@
     "memory_limit" : 256,
     "short_name": "APB",
     "test_cases": [
-        {"name":"test1","score":1},
-        {"name":"test2","score":1},
-        {"name":"test3","score":1},
-        {"name":"test4","score":1},
-        {"name":"test5","score":1},
-        {"name":"test6","score":1},
-        {"name":"test7","score":1},
-        {"name":"test8","score":1},
-        {"name":"test9","score":1},
-        {"name":"test10","score":1}
+        {"index":1,"score":1},
+        {"index":2,"score":1},
+        {"index":3,"score":1},
+        {"index":4,"score":1},
+        {"index":5,"score":1},
+        {"index":6,"score":1},
+        {"index":7,"score":1},
+        {"index":8,"score":1},
+        {"index":9,"score":1},
+        {"index":10,"score":1}
     ]
 }
